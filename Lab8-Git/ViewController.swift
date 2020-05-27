@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("done nothing.")
+        print("Done some UI work!")
         // Do any additional setup after loading the view.
     }
 
